@@ -644,9 +644,9 @@ footer p {
         width: 300px;
     }
 
-    h5 {
-        margin: -20px 0px !important !important;
-        border: -20px 0px !important !important;
+    body footer h5 {
+        margin: -20px 0px !important;
+        border: -20px 0px !important;
     }
 
 }
