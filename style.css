@@ -484,6 +484,10 @@ footer p {
         font-size: 8px;
     }
 
+    h5 {
+        margin: -20px 0;
+    }
+
 
 
     p {
@@ -642,11 +646,6 @@ footer p {
 
     .column .wddimg {
         width: 300px;
-    }
-
-    body footer h5 {
-        margin: -20px 0px !important;
-        border: -20px 0px !important;
     }
 
 }
